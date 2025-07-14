@@ -10,7 +10,7 @@ Key Features:
 • Uses CountVectorizer and Cosine Similarity for text analysis and similarity scoring  
 • Content-based filtering – no need for user ratings  
 • Streamlit web app with real-time movie recommendations  
-• Displays movie posters for better user experience  
+ 
 
 Technologies Used:
 ------------------
